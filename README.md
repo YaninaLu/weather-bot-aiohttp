@@ -8,8 +8,8 @@ Make sure to include your bot token to the code to be able to use it.
 
 Example screenshots:
 
-![img_2.png](examples\img_2.png)
+![img_2.png](examples/img_2.png)
 
-![img.png](examples\img.png)
+![img.png](examples/img.png)
 
-![img_1.png](examples\img_1.png)
+![img_1.png](examples/img_1.png)
